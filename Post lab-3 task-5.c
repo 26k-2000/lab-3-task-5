@@ -2,7 +2,7 @@
 int main(){
 
     char name[50];
-    printf("Enter the name of student:");
+    printf("Enter the name of student: ");
     fgets(name,50,stdin);
 
     char id[50];
